@@ -1,0 +1,3 @@
+let { lookup } = require('./whois');
+
+
